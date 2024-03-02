@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99c24022817734646bba55c8b07f3bf9, type: 3}
+  m_Name: MainPlayerDataSettings
+  m_EditorClassIdentifier: 
+  hasOwnerPrefab: {fileID: 4398370856537798957, guid: 913e1b08620d21841b5a2c4a29553dd7, type: 3}
+  hasNoOwnerPrefab: {fileID: 4398370856537798957, guid: 9b0d5c5742a224f128722eca31bc32d2, type: 3}
+  team: 0
+  HP: 5
+  hasInterract: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d476aa01daeb429991bb017a1179108, type: 3}
+  m_Name: MGDataSettigs
+  m_EditorClassIdentifier: 
+  ammo: 100
+  fullAmmo: 1000
+  slot: 3
+  weaponId: 6
+  hasOwnerPrefab: {fileID: 7513452188644685670, guid: 37823dc1dd4a24965835d08c6c8fee17, type: 3}
+  hasNoOwnerPrefab: {fileID: 6685756431995589365, guid: 360c195a64551401ab7071c2f3c73369, type: 3}
